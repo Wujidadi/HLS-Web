@@ -1,0 +1,32 @@
+:root {
+    --fgcolor-dark: #ddd;
+    --bgcolor-dark: #222;
+    --main-frame-width: 1080px;
+}
+
+body {
+    color: var(--fgcolor-dark);
+    background-color: var(--bgcolor-dark);
+    margin: 0;
+    font-family: Arial;
+}
+
+a {
+    color: dodgerblue;
+    text-decoration-line: none;
+}
+a:hover {
+    color: salmon;
+}
+a:visited {
+    color: lightskyblue;
+}
+
+main div.copyright {
+    font-size: 12px;
+    color: darkgray;
+}
+
+.hidden {
+    display: none;
+}

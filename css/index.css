@@ -1,0 +1,20 @@
+body {
+    padding: 12px;
+}
+
+body main {
+    max-width: var(--main-frame-width);
+    margin: 0 auto;
+    padding: 4px 8px 20px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0px 0px 12px rgba(255, 255, 255, .5);
+}
+
+body main .headtitle {
+    margin-bottom: 30px;
+}
+
+main div.copyright {
+    margin-top: 30px;
+}

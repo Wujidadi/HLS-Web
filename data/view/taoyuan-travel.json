@@ -1,0 +1,74 @@
+[
+    {
+        "name": "石門水庫",
+        "coordinate": "24.811200, 121.244110",
+        "title": "Shihmen Reservoir Live Cam 石門水庫即時影像",
+        "videoId": "1OTZ9rjFv78"
+    },
+    {
+        "name": "永安漁港",
+        "coordinate": "24.987720, 121.015790",
+        "title": "Yongan Fishing Harbor 永安漁港即時影像",
+        "videoId": "tD_a03trUvE"
+    },
+    {
+        "name": "大溪老街",
+        "coordinate": "24.886331, 121.285741",
+        "title": "Daxi Old Street Live Cam 大溪老街即時影像",
+        "videoId": "z_mlibCfgFI"
+    },
+    {
+        "name": "桃園大溪橋",
+        "coordinate": "24.884820, 121.283900",
+        "title": "Daxi Bridge Live Cam 桃園大溪橋即時影像",
+        "videoId": "FPfv3-dC1Po"
+    },
+    {
+        "name": "小烏來天空步道",
+        "coordinate": "24.790630, 121.375170",
+        "title": "Xiao Wulai Skywalk Live Cam 小烏來天空步道即時影像",
+        "videoId": "2NS-5SqvhkI"
+    },
+    {
+        "name": "小烏來寰宇平台",
+        "coordinate": "24.793139, 121.375389",
+        "title": "Taoyuan Panoramic Lookout Live Cam | 桃園小烏來寰宇平台即時影像",
+        "videoId": "-E8pophP1VQ"
+    },
+    {
+        "name": "拉拉山遊客中心",
+        "coordinate": "24.679820, 121.384070",
+        "title": "Lala Mount. Live Cam 拉拉山遊客中心即時影像",
+        "videoId": "Qsio6jOZ2Y4"
+    },
+    {
+        "name": "後慈湖",
+        "coordinate": "24.845540, 121.302250",
+        "title": "Back Cihu Live Cam 後慈湖即時影像",
+        "videoId": "TUt5wxrAtTc"
+    },
+    {
+        "name": "角板山生態池",
+        "coordinate": "24.816280, 121.346840",
+        "title": "Jiaobanshan Eco Pond Live Cam 角板山生態池即時影像",
+        "videoId": "D3RGBaU1uUY"
+    },
+    {
+        "name": "慈湖水岸廣場",
+        "coordinate": "24.840950, 121.294440",
+        "title": "Cihu Memorial Sculpture Park Live Cam 慈湖水岸廣場即時影像",
+        "videoId": "x6I-9UEe5PY"
+    },
+    {
+        "name": "虎頭山奧爾森林學堂",
+        "coordinate": "24.811200, 121.244110",
+        "title": "Hutoushan Owl Forest School Live Cam 虎頭山奧爾森林學堂即時影像",
+        "videoId": "_bEjElKSPCk"
+    },
+    {
+        "name": "角板山梅園",
+        "coordinate": "24.816370, 121.349270",
+        "title": "Jiaobanshan Plum Orchard Live Cam 角板山梅園即時影像",
+        "videoId": "E0-nfZjrMiE"
+    }
+]
